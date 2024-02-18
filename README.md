@@ -1,1 +1,1 @@
-# springboot-blog-01
+Initializing a Springboot project and creating a small backend application
